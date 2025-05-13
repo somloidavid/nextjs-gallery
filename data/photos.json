@@ -1,0 +1,17 @@
+[
+    {
+        "filename": "abstract.png",
+        "title": "Abstract",
+        "tags": ["abstract"] 
+    },
+    {
+        "filename": "meadow.png",
+        "title": "Meadow",
+        "tags": ["nature"]
+    },
+    {
+        "filename": "mercury.png",
+        "title": "Mercury",
+        "tags": ["abstract"]
+    }
+]
